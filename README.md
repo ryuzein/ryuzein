@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ryuzein&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
 
-<img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "200" width="250">
+<img align='right' src='https://acegif.com/wp-content/uploads/2022/hqgif/blue-lock-6.gif' height = "200" width="250">
 
 ---
 
