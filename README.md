@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/ryuzein/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Lorem+ipsum+dolor+sit+amet;Iam+Aji+Ryuzein"></a>
+  <a href="https://github.com/ryuzein/"><img src="https://readme-typing-svg.herokuapp.com?color=2032f7&center=true&vCenter=true&lines=Lorem+ipsum+dolor+sit+amet;Iam+Aji+Ryuzein"></a>
 </p>
 
 <p align='center'>
@@ -15,21 +15,21 @@
    <a href="https://instagram.com/romadhonaji22"><img height="30" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-logo-instagram-ini-ada-varias-dan-transparan-33.png"></a>
    <br/><br/>
    <a href="https://github.com/ryuzein/">
-   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzein&layout=compact&title_color=8B64FF" alt="ryuzein's github stats"/>
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzein&layout=compact&title_color=2032f7" alt="ryuzein's github stats"/>
    </a>
    <a href="https://github.com/ryuzein/">
-   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ryuzein&hide=issues&count_private=true&show_icons=true&title_color=8B64FF&icon_color=8B64FF" alt="ryuzein's github stats" />
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ryuzein&hide=issues&count_private=true&show_icons=true&title_color=2032f7&icon_color=2032f7" alt="ryuzein's github stats" />
    </a><br/><br/>
   <a href="https://github.com/ryuzein/">
-   <img align="center" width="710px" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzein&theme=default&fire=8B64FF&ring=8B64FF&currStreakLabel=8B64FF&sideNums=8B64FF&currStreakNum=d62976" alt="ryuzein's streak stats"/>
+   <img align="center" width="710px" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzein&theme=default&fire=2032f7&ring=2032f7&currStreakLabel=2032f7&sideNums=2032f7&currStreakNum=d62976" alt="ryuzein's streak stats"/>
    </a><br/><br/>
    <a href="https://wakatime.com/@ryuzein">
-   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ryuzein&layout=compact&title_color=8B64FF" alt="ryuzein's wakatime stats"/>
+   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ryuzein&layout=compact&title_color=2032f7" alt="ryuzein's wakatime stats"/>
    </a><br/><br/>
    <a href="https://wakatime.com/@ryuzein">
    <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=ryuzein&column=7" alt="ryuzein's trophy stats"/>
    </a><br/><br/>
-<!--    <a href="https://github.com/ryuzein/"><img width="735px" alt="ryuzein's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryuzein&theme=minimal&line=8B64FF&point=d62976" /></a> -->
+<!--    <a href="https://github.com/ryuzein/"><img width="735px" alt="ryuzein's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryuzein&theme=minimal&line=2032f7&point=d62976" /></a> -->
 </p>
 
 <!-- <details> 
