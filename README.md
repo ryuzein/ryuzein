@@ -1,86 +1,39 @@
-<h1 align="center">Hi, I'm Aji Ryuzein
-<img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
-<p align ="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ryuzein&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
-</p>
-
-<img align='right' src='https://acegif.com/wp-content/uploads/2022/hqgif/blue-lock-6.gif' height = "200" width="250">
-
----
-
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span> <b>Google Cloud Platform</b></span><br><br><br>
-        <img height="128px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-         <span><b>Tensorflow 2.0</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Python 3</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-</p>
-
-<hr>
-
-### 📝 Latest articles from [dev.to](https://draz.my.id)
-
-* Jul 11 2020 [Building & Deploying an Image Classification Web App with GCP AutoML Vision Edge, Tensorflow.js & GCP App Engine](https://dev.to/singh08prashant/building-deploying-an-image-classification-web-app-with-gcp-automl-vision-edge-tensorflow-js-gcp-app-engine-57gb) 
-
-<p align = "center">
- <a href="https://twitter.com/ryuzein">
-  <img align="center" alt="Ryuzein Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ryuzein/">
-  <img align="center" alt=" Ryuzein Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ryuzein">
-  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/ryuzein">
-  <img align="center" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.hackerrank.com/ryuzein">
-  <img align="center" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-
-</p>
+<!--- #[![Pandawa Eazy Tools](https://camo.githubusercontent.com/b9e9ba2414fe4bf078c1c67d743c07142e6e9cd25d928c2ae9dd0f5dad4cf059/68747470733a2f2f692e6962622e636f2f46714c6e39516d2f50414e444157412e706e67)](https://github.com/ryuzein/Pandawa-Eazy-Tools) -->
+<h1 align='center'> Hello Friend! :wave:</h1>
+<h3 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fryuzein" />
-<img src="https://komarev.com/ghpvc/?username=ryuzein" alt="singh08prashant" />
-
+  <a href="https://github.com/ryuzein/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Lorem+ipsum+dolor+sit+amet;Iam+Aji+Ryuzein"></a>
 </p>
 
-⭐️ From [Aji Ryuzein](https://github.com/ryuzein)
+<p align='center'>
+   <a href="https://www.facebook.com/romaaji.satrya"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png"></a>&nbsp;&nbsp;
+   <a href="https://pinterest.com/roazzx"><img height="30" src="https://pngimg.com/uploads/pinterest/pinterest_PNG62.png"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/romadhonaji22"><img height="30" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-logo-instagram-ini-ada-varias-dan-transparan-33.png"></a>
+   <br/><br/>
+   <a href="https://github.com/ryuzein/">
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzein&layout=compact&title_color=8B64FF" alt="ryuzein's github stats"/>
+   </a>
+   <a href="https://github.com/ryuzein/">
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ryuzein&hide=issues&count_private=true&show_icons=true&title_color=8B64FF&icon_color=8B64FF" alt="ryuzein's github stats" />
+   </a><br/><br/>
+  <a href="https://github.com/dandyraka/">
+   <img align="center" width="710px" src="https://github-readme-streak-stats.herokuapp.com/?user=dandyraka&theme=default&fire=8B64FF&ring=8B64FF&currStreakLabel=8B64FF&sideNums=8B64FF&currStreakNum=d62976" alt="ryuzein's streak stats"/>
+   </a><br/><br/>
+   <a href="https://wakatime.com/@ryuzein">
+   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ryuzein&layout=compact&title_color=8B64FF" alt="ryuzein's wakatime stats"/>
+   </a><br/><br/>
+   <a href="https://wakatime.com/@ryuzein">
+   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=ryuzein&column=7" alt="ryuzein's trophy stats"/>
+   </a><br/><br/>
+   <a href="https://github.com/ryuzein/"><img width="735px" alt="ryuzein's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryuzein&theme=minimal&line=8B64FF&point=d62976" /></a>
+</p>
+
+<!-- <details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href=""/></a>
+</details> -->
