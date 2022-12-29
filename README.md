@@ -20,8 +20,8 @@
    <a href="https://github.com/ryuzein/">
    <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ryuzein&hide=issues&count_private=true&show_icons=true&title_color=8B64FF&icon_color=8B64FF" alt="ryuzein's github stats" />
    </a><br/><br/>
-  <a href="https://github.com/dandyraka/">
-   <img align="center" width="710px" src="https://github-readme-streak-stats.herokuapp.com/?user=dandyraka&theme=default&fire=8B64FF&ring=8B64FF&currStreakLabel=8B64FF&sideNums=8B64FF&currStreakNum=d62976" alt="ryuzein's streak stats"/>
+  <a href="https://github.com/ryuzein/">
+   <img align="center" width="710px" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzein&theme=default&fire=8B64FF&ring=8B64FF&currStreakLabel=8B64FF&sideNums=8B64FF&currStreakNum=d62976" alt="ryuzein's streak stats"/>
    </a><br/><br/>
    <a href="https://wakatime.com/@ryuzein">
    <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ryuzein&layout=compact&title_color=8B64FF" alt="ryuzein's wakatime stats"/>
