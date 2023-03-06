@@ -23,9 +23,7 @@
   <a href="https://github.com/ryuzein/">
    <img align="center" width="710px" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzein&theme=default&fire=2032f7&ring=2032f7&currStreakLabel=2032f7&sideNums=2032f7&currStreakNum=d62976" alt="ryuzein's streak stats"/>
    </a><br/><br/>
-   <a href="https://wakatime.com/@ryuzein">
-   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ryuzein&layout=compact&title_color=2032f7" alt="ryuzein's wakatime stats"/>
-   </a><br/><br/>
+
    <a href="https://wakatime.com/@ryuzein">
    <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=ryuzein&column=7" alt="ryuzein's trophy stats"/>
    </a><br/><br/>
