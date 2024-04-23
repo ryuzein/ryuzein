@@ -5,6 +5,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
