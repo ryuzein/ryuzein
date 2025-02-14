@@ -7,7 +7,7 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![Snake animation](https://raw.githubusercontent.com/ryuzein/ryuzein/output/github-contribution-grid-snake-dark.svg)
 
 - ⚡ Fun fact **I think i am funny**
 
