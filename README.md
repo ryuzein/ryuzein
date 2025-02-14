@@ -6,8 +6,15 @@
 </h3>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Snake animation](https://raw.githubusercontent.com/ryuzein/ryuzein/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ryuzein/ryuzein/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 
 - ⚡ Fun fact **I think i am funny**
 
