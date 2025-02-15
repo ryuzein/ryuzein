@@ -6,11 +6,21 @@
 </h3>
 
 ### ✍️Random Dev Quote
+<picture align="center">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ryuzein&show_icons=true&theme=outrun"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ryuzein&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryuzein&show_icons=true" />
+</picture>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 </div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/ryuzein/ryuzein/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
